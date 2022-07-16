@@ -16,7 +16,7 @@ node_modules
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-
+./nabit-front/
 ### IntelliJ IDEA ###
 .idea
 *.iws
